@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,androidstudio,spring" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,androidstudio,spring" />
 
 </div>
 
@@ -73,7 +73,9 @@
 <div align="center">
 
 <a href="https://github.com/dev-LuccaMonteiro">
+
 <img src="https://img.shields.io/badge/GitHub-dev--LuccaMonteiro-800020?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 </div>
