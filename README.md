@@ -1,8 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Lucca!;Welcome+to+my+GitHub!;Software+Development+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800020&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Lucca!;Welcome+to+my+GitHub!;Software+Development+Student)
 
 </div>
 
@@ -29,9 +27,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-LuccaMonteiro&show_icons=true&theme=dark&hide_border=true&title_color=DC143C&icon_color=DC143C&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-LuccaMonteiro&show_icons=true&theme=dark&hide_border=true&title_color=800020&icon_color=800020&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LuccaMonteiro&layout=compact&theme=dark&hide_border=true&title_color=DC143C" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LuccaMonteiro&layout=compact&theme=dark&hide_border=true&title_color=800020" />
 
 </div>
 
@@ -47,7 +45,7 @@
 <div align="center">
 
 <a href="https://github.com/dev-LuccaMonteiro">
-<img src="https://img.shields.io/badge/GitHub-dev--LuccaMonteiro-DC143C?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-dev--LuccaMonteiro-800020?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -58,4 +56,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer"/>
