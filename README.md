@@ -1,20 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
-
-
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header"/>
 
 <div align="center">
 
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Lucca!;Welcome+to+my+GitHub!;Software+Development+Student)
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800020&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Lucca!;Welcome+to+my+GitHub!;Software+Development+Student)
 
 </div>
 
-
-
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 Técnico em Desenvolvimento de Sistemas
 
@@ -26,53 +18,41 @@
 
 🎯 Buscando evoluir minhas habilidades e desenvolver soluções úteis
 
-🛠️ Tech Stack
+---
 
-
+## 🛠️ Tech Stack
 
 <div align="center">
-
-
 
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,androidstudio,spring" />
 
-
-
 </div>
 
+---
 
+## 🚀 Projects
 
-🚀 Projects
+🐾 **RestTail** — Sistema de gestão para clínica veterinária, pet shop e planos para pets.
 
-📚 Bibliotech — Sistema para gerenciamento do acervo de livros de uma biblioteca.
+☕ **Java Projects** — Aplicações para praticar programação orientada a objetos, encapsulamento e herança.
 
-🐾 RestTail — Sistema de gestão para clínica veterinária, pet shop e planos para pets.
+📱 **Android Projects** — Aplicativos desenvolvidos com Java e Android Studio.
 
-☕ Java Projects — Aplicações para praticar programação orientada a objetos, encapsulamento e herança.
+---
 
-📱 Android Projects — Aplicativos desenvolvidos com Java e Android Studio.
-
-📊 GitHub Statistics
-
-
+## 📊 GitHub Statistics
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-LuccaMonteiro&show_icons=true&theme=dark&hide_border=true&title_color=800020&icon_color=800020&include_all_commits=true" />
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-LuccaMonteiro&show_icons=true&theme=dark&hide_border=true&title_color=DC143C&icon_color=DC143C&include_all_commits=true" />
-
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LuccaMonteiro&layout=compact&theme=dark&hide_border=true&title_color=DC143C" />
-
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LuccaMonteiro&layout=compact&theme=dark&hide_border=true&title_color=800020" />
 
 </div>
 
+---
 
-
-📚 Currently Learning
+## 📚 Currently Learning
 
 ☕ Java & Object-Oriented Programming
 
@@ -86,36 +66,22 @@
 
 🔧 Git & GitHub
 
-📫 Connect With Me
+---
 
-
+## 📫 Connect With Me
 
 <div align="center">
-
-
 
 <a href="https://github.com/dev-LuccaMonteiro">
-
-<img src="https://img.shields.io/badge/GitHub-dev--LuccaMonteiro-DC143C?style=for-the-badge&logo=github&logoColor=white" />
-
+<img src="https://img.shields.io/badge/GitHub-dev--LuccaMonteiro-800020?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-
-
 </div>
-
-
 
 <div align="center">
 
-
-
-☕ Building, learning, and evolving every day!
-
-
+☕ **Building, learning, and evolving every day!**
 
 </div>
 
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer"/>
