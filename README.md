@@ -44,15 +44,18 @@
 
 ---
 
+HTML
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-LuccaMonteiro&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E31B23&icon_color=E31B23&text_color=FFFFFF&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-LuccaMonteiro&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E31B23&icon_color=E31B23&text_color=FFFFFF&include_all_commits=true&cache_seconds=86400" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LuccaMonteiro&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E31B23&text_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LuccaMonteiro&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E31B23&text_color=FFFFFF&cache_seconds=86400" />
 
 </div>
+
+
 
 ---
 
