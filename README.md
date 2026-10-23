@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=900&color=E31B23&size=30&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+LUCCA!;WELCOME+TO+MY+WORLD.;SOFTWARE+DEVELOPMENT+STUDENT)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=900&color=E31B23&size=30&center=true&vCenter=true&width=1000&lines=HI%2C+MY+NAME+IS+LUCCA;WELCOME+TO+MY+GITHUB;THE+REAL+DEV+SHADY)
 
 **`DEV MODE: SLIM SHADY`**
 
