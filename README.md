@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=header&fontColor=E31B23"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=header"/>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=900&color=E31B23&size=30&center=true&vCenter=true&width=1000&lines=HI%2C+MY+NAME+IS+LUCCA;WELCOME+TO+MY+GITHUB;THE+REAL+DEV+SHADY)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=900&size=30&center=true&vCenter=true&width=1000&height=60&color=FFD700&background=0D0D0D00&border=true&border_color=E31B23&lines=HI%2C+MY+NAME+IS+LUCCA;WELCOME+TO+MY+GITHUB;THE+REAL+DEV+SHADY" />
+
+</div>
 
 **`DEV MODE: SLIM SHADY`**
 
