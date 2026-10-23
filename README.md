@@ -44,7 +44,6 @@
 
 ---
 
-HTML
 ## 📊 GitHub Statistics
 
 <div align="center">
