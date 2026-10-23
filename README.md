@@ -1,80 +1,89 @@
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header"/>
+
 <div align="center">
 
-# 🎤 LUCCA MONTEIRO
-### `DEVELOPER IN THE MAKING // SLIM SHADY VIBES`
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800020&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Lucca!;Welcome+to+my+GitHub!;Software+Development+Student)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=25&duration=3000&pause=1000&color=E31B23&center=true&vCenter=true&width=800&lines=HI%2C+I'M+LUCCA;CODE+IS+MY+FREESTYLE;LEARN.+BUILD.+REPEAT.)](https://git.io/typing-svg)
+</div>
 
-NAME       : Lucca Monteiro
-ROLE       : Systems Development Student
-MINDSET    : NEVER STOP IMPROVING
-FOCUS      : BACKEND / WEB / SOFTWARE
-MISSION    : TURN IDEAS INTO REALITY
+## 👨‍💻 About Me
 
 🎓 Técnico em Desenvolvimento de Sistemas
+
 💻 Estudante de programação e desenvolvimento de software
-🔥 Focado em evoluir minhas habilidades e construir projetos reais
-🧠 Aprendendo a transformar problemas em soluções
-🎯 Disciplina, criatividade e código — meu próprio freestyle.
-🔥 THE ARSENAL // TECH STACK
+
+🚀 Interessado em backend, desenvolvimento web e criação de sistemas
+
+🧠 Sempre aprendendo novas tecnologias e transformando ideias em projetos
+
+🎯 Buscando evoluir minhas habilidades e desenvolver soluções úteis
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-!Java !Spring !HTML5 !CSS3 !JavaScript !MySQL
-
-!Git !GitHub !VS Code !Android Studio
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,androidstudio,spring" />
 
 </div>
 
-🎤 TRACKLIST // PROJECTS
-🐾 RestTail
-Sistema de gestão para clínica veterinária, pet shop e planos para pets.
+---
 
-JAVA SOFTWARE DEVELOPMENT DATABASES
+## 🚀 Projects
 
-☕ Java Projects
-Projetos para dominar os fundamentos da programação orientada a objetos.
+🐾 **RestTail** — Sistema de gestão para clínica veterinária, pet shop e planos para pets.
 
-OOP ENCAPSULATION INHERITANCE
+☕ **Java Projects** — Aplicações para praticar programação orientada a objetos, encapsulamento e herança.
 
-📱 Android Projects
-Aplicativos desenvolvidos com Java e Android Studio.
+📱 **Android Projects** — Aplicativos desenvolvidos com Java e Android Studio.
 
-JAVA ANDROID STUDIO MOBILE DEVELOPMENT
+---
 
-📊 THE NUMBERS DON'T LIE
+## 📊 GitHub Statistics
 
 <div align="center">
 
-!GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-LuccaMonteiro&show_icons=true&theme=dark&hide_border=true&title_color=800020&icon_color=800020&include_all_commits=true" />
 
-!Top Languages
-
-!GitHub Streak
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-LuccaMonteiro&layout=compact&theme=dark&hide_border=true&title_color=800020" />
 
 </div>
 
-📚 CURRENTLY IN THE STUDIO
+---
+
+## 📚 Currently Learning
+
 ☕ Java & Object-Oriented Programming
+
 🌱 Spring Boot
+
 🌐 Web Development
-🗄️ MySQL & Database Design
+
+🗄️ Databases & MySQL
+
 📱 Android Development
+
 🔧 Git & GitHub
-📡 CONNECT // COLLABORATE
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW_MY_JOURNEY-111111?style=for-the-badge&logo=github&logoColor=E31B23)
+<a href="https://github.com/dev-LuccaMonteiro">
+
+<img src="https://img.shields.io/badge/GitHub-dev--LuccaMonteiro-800020?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
 
 </div>
 
 <div align="center">
 
-🎧 "NO SHORTCUTS. JUST WORK."
-
-WRITE CODE. MAKE PROGRESS. REPEAT.
-
-BUILDING MY FUTURE, ONE COMMIT AT A TIME.
+☕ **Building, learning, and evolving every day!**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer"/>
